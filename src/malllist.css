@@ -1,0 +1,33 @@
+.mall_list{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    margin: 10px 10px;
+}
+.mall_list_title{
+    display: flex;
+    margin: 0px 10px;
+    justify-content: space-between;
+    padding: 10px;
+}
+.mall_list_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+.mall_list_content_img img{
+    max-width: 100%;
+}
+.showoffers{
+    outline: none;
+    border: none;
+    background: #3882ea;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+}
+.location_on_map{
+    text-align: center;
+    margin: 10px 0px;
+}
