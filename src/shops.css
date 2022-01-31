@@ -1,0 +1,22 @@
+.shops{
+    width: 50%;
+}
+.shop{
+    display: flex;
+
+}
+.image{
+    width: 50%;
+}
+.image img{
+    width: 100%;
+
+}
+.info{
+    width: 50%;
+    padding: 20px;
+}
+.card{
+    padding: 10px;
+    font-weight: bold;
+}
